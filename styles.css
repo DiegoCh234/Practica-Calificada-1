@@ -1,0 +1,207 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+}
+
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+
+}
+
+
+
+.titulo {
+    font-size: 50px;
+    text-align: center;
+}
+
+.logo{
+    order: -1;
+}
+
+.logo img{
+width: 600px;
+height: auto;
+}
+
+
+.titInicio{
+    margin-top: 1px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.titNot{
+    margin-top: 1px;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.inicio{
+    margin-top: 10px;
+    background-color: aquamarine;
+    margin-bottom: 0;
+    margin: 0;
+}
+
+.calendario{
+    background-color: yellowgreen;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: 0; 
+
+}
+
+.estadios{
+    background-color:bisque;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: 0; 
+
+}
+
+.Noticias{
+    background-color:skyblue;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: 0; 
+
+}
+
+
+
+.inicio img {
+    float: right;
+    margin-top:0;
+}
+
+.inicio .tercer{
+    margin-top: 50px; 
+}
+
+.titCalendario{
+    margin-top: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.titEstadios{
+    margin-top: 1px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.inicio .sep1{
+    margin-top: 40px;
+    background-image: url(images/argentina\ vs\ canada.png); 
+    background-repeat: no-repeat; 
+    background-position: 350px; 
+    padding-right: 30px; 
+    line-height: 1; 
+}
+
+.inicio .sep2{
+    margin-top: 40px;
+    background-image: url(images/peru\ vs\ chile.png); 
+    background-repeat: no-repeat; 
+    background-position: 350px; 
+    padding-right: 30px; 
+    line-height: 1; 
+}
+
+.inicio .sep3{
+    margin-top: 40px;
+    background-image: url(images/ecuador\ vs\ venezuela.png); 
+    background-repeat: no-repeat; 
+    background-position: 350px; 
+    padding-right: 30px; 
+    line-height: 1; 
+}
+
+.inicio .sep4{
+    margin-top: 40px;
+    background-image: url(images/jamaica\ vs\ mexico.png); 
+    background-repeat: no-repeat; 
+    background-position: 350px; 
+    padding-right: 30px; 
+    line-height: 1; 
+}
+
+.inicio .sep5{
+    margin-top: 40px;
+    background-image: url(images/usa\ vs.png); 
+    background-repeat: no-repeat; 
+    background-position: 350px; 
+    padding-right: 30px; 
+    line-height: 1; 
+}
+
+.inicio .sep6{
+    margin-top: 40px;
+    background-image: url(images/uruguay\ vs.png); 
+    background-repeat: no-repeat; 
+    background-position: 350px; 
+    padding-right: 30px; 
+    line-height: 1; 
+}
+
+.inicio .sep7{
+    margin-top: 40px;
+    background-image: url(images/colombia.png); 
+    background-repeat: no-repeat; 
+    background-position: 350px; 
+    padding-right: 30px; 
+    line-height: 1; 
+}
+
+.inicio .sep8{
+    margin-top: 40px;
+    background-image: url(images/brasil.png); 
+    background-repeat: no-repeat; 
+    background-position: 350px; 
+    padding-right: 30px; 
+    line-height: 1; 
+}
+
+.noticia1 img {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 250px;
+    
+}
+
+.noticia2 img {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 250px;
+    
+}
+
+.noticia3 img {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 250px;
+    
+}
+
+.noticia4 img {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 250px;
+    
+}
+
+.noticia5 img {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 250px;
+    
+}
